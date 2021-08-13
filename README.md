@@ -46,6 +46,8 @@
 </div>
 
  ##
-  
+ <div align="right">
+  <img src="https://komarev.com/ghpvc/?username=EdlaineNunes&color=green" alt="EdlaineNunes" /> 
+ </div>
 
 
