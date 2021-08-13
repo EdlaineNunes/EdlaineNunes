@@ -1,19 +1,21 @@
-### Hi there 👋
+### Olá, eu sou Edlâine Rodrigues Nunes!👋 
 
-<!--
-**EdlaineNunes/EdlaineNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨   ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨   ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 
-Here are some ideas to get you started:
+- 🇧🇷 Minas Gerais;
+- 💻 Acadêmica do curso de **Sistemas de Informação** no IFNMG - Campus Januária;
+- 🔭 Atualmente estou **estagiando na Americanas.sa**; 
+- 🏡 Estou trabalhando de forma remota (Home Office);
+- 🌱 Gosto de aprender sobre **novas tecnologias do mercado**;
+- 👯 Busco colaborar em novos **projetos disruptivos e inovadores**; 
+- 🤔 Procuro aprender com os meus próprios erros; 
+- 📫 Contate-me pelo email: edlaine.nunesr@gmail.com 
+- 😄 Pronomes: ela/dela;
+- ☕ Sempre disposta a ir tomar um cafézinho;
+- ⚡ Curiosidades: Gosto de aprender sobre a cultura de diferentes lugares (Turquia, China, Tailândia e etc.). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨   ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨   ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
+ ##
 
 <div>
   <a href="https://github.com/EdlaineNunes">
