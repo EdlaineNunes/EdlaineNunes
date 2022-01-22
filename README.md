@@ -4,8 +4,7 @@
 
 - 🇧🇷 Minas Gerais;
 - 💻 Acadêmica do curso de **Sistemas de Informação** no IFNMG - Campus Januária;
-- 🔭 Atualmente estou **estagiando na Americanas.sa**; 
-- 🏡 Estou trabalhando de forma remota (Home Office);
+- 🔭 Atualmente sou **Desenvolvedora Jr na Americanas.sa**; 
 - 🌱 Gosto de aprender sobre **novas tecnologias do mercado**;
 - 👯 Busco colaborar em novos **projetos disruptivos e inovadores**; 
 - 🤔 Procuro aprender com os meus próprios erros; 
