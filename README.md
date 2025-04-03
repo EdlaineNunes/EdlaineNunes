@@ -4,7 +4,8 @@
 
 - 🇧🇷 Minas Gerais;
 - 💻 Acadêmica do curso de **Sistemas de Informação** no IFNMG - Campus Januária;
-- 🔭 Atualmente sou **Desenvolvedora Jr na Americanas.sa**; 
+- 🔭 Já atuei como **Desenvolvedora Jr na Americanas.sa** - 2021/2024; 
+- 🔭 Atualmente sou **Analista de Desenvolvimento Pleno no Grupo Carrefour Brasil** - 2024/atual; 
 - 🌱 Gosto de aprender sobre **novas tecnologias do mercado**;
 - 👯 Busco colaborar em novos **projetos disruptivos e inovadores**; 
 - 🤔 Procuro aprender com os meus próprios erros; 
